@@ -1,2 +1,2 @@
 Hello, Content!
-[Page 2](pagetwo.markdown)
+[Page 2](pagetwo.html)
